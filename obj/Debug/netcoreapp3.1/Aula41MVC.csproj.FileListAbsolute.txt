@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\bin\Debug\netcoreapp3.1\Aula41MVC.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula41MVC\obj\Debug\netcoreapp3.1\Aula41MVC.genruntimeconfig.cache
