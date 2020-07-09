@@ -10,7 +10,7 @@ namespace Aula41MVC.Views
         public void MostrarNoConsole(List<Produto> lista)
         {
             foreach(Produto item in lista){
-                System.Console.WriteLine($"R$ {item.Nome} - {item.Preco} ");
+                System.Console.WriteLine($"R$ {item.Preco} - {item.Nome}");
             }
             
         } 

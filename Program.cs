@@ -8,7 +8,7 @@ namespace Aula41MVC
         static void Main(string[] args)
         {
             ProdutoController prod = new ProdutoController();
-            prod.buscar("200");
+            prod.buscar("4500");
         }
     }
 }
